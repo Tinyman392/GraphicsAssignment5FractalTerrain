@@ -1,0 +1,2 @@
+All:
+	g++ -std=c++0x -o frac main.cc frac.cc
